@@ -31,7 +31,7 @@ const CustomAppBar = styled(AppBar)(({ theme }) => ({
 
 
 const App = () => {
-  const classes = useStyles()
+  
   return (
     <Wrapper>
         <CustomAppBar  position='static' color='inherit'>
