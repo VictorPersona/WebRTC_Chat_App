@@ -2,7 +2,8 @@ import React from 'react'
 
 const Options = ({children}) => {
   return (
-    <div>{children}</div>
+    <div>
+      Options{children}</div>
   )
 }
 
